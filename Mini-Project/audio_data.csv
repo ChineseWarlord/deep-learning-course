@@ -1,4 +1,5 @@
 uuid,cough_detected,SNR,age,gender,status
+../Dataset/MP3/006e496e-1dc5-4cac-b16b-f6051d5e5fa1.mp3,0.9609,16.15143299,15.0,male,healthy
 ../Dataset/MP3/00039425-7f3a-42aa-ac13-834aaa2b6b92.mp3,0.9609,16.15143299,15.0,male,healthy
 ../Dataset/MP3/0009eb28-d8be-4dc1-92bb-907e53bc5c7a.mp3,0.9301,20.14605761,34.0,male,healthy
 ../Dataset/MP3/001328dc-ea5d-4847-9ccf-c5aa2a3f2d0f.mp3,0.9968,13.14650178,21.0,male,healthy
