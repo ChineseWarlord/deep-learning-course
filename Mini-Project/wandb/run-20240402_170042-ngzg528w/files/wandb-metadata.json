@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.11.6",
+    "heartbeatAt": "2024-04-02T15:00:49.714312",
+    "startedAt": "2024-04-02T15:00:42.108435",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/ChineseWarlord/deep-learning-course.git",
+        "commit": "c94e6f922ff8237cfb82d63bc372c3572574bfbf"
+    },
+    "email": "ChineseWarlord@github.com",
+    "root": "D:/GitHub/deep-learning-course",
+    "host": "LAPTOP-HCBH0RFD",
+    "username": "simon",
+    "executable": "d:\\GitHub\\deep-learning-course\\.venv\\Scripts\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1803.0,
+        "min": 0.0,
+        "max": 2304.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1803.0,
+            "min": 0.0,
+            "max": 2304.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 97.65526962280273,
+            "used": 11.979766845703125
+        }
+    },
+    "gpu": "NVIDIA GeForce MX250",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce MX250",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 15.802963256835938
+    }
+}
