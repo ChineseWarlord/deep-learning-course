@@ -136,3 +136,6 @@ matlab/
 # matlab
 matlab.ipynb
 .vscode/settings.json
+
+# Misc
+out_models_kaggle/
